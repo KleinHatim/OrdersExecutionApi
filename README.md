@@ -4,15 +4,6 @@
 
 `OrdersExecutionApi` est une application ASP.NET Core 8 qui expose une API REST pour exécuter des ordres de trading. L'API permet de soumettre des ordres d'achat ou de vente et retourne les trades correspondants.
 
-## Fonctionnalités
-
-- **Exécution d'Ordres** : Soumettre des ordres d'achat ou de vente.
-- **Caching des Trades** : Éviter les appels redondants au composant externe pour les mêmes ordres.
-- **Thread-Safe** : Supporte l'utilisation concurrente.
-- **Gestion des Erreurs** : Gestion robuste des erreurs HTTP et des exceptions internes.
-- **Logging** : Journalisation détaillée des actions et des erreurs.
-- **Tests Unitaires** : Couverture complète des tests unitaires pour la logique métier.
-
 
 ## Prérequis
 
@@ -24,7 +15,7 @@
 1. **Cloner le Repository**
 
     ```bash
-    git clone https://github.com/votre-repo/OrdersExecutionApi.git
+    git clone https://github.com/https://github.com/KleinHatim/OrdersExecutionApi.git
     cd OrdersExecutionApi
     ```
 
