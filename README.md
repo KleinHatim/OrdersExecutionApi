@@ -8,14 +8,14 @@
 ## Prérequis
 
 - [.NET SDK 8.0](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/fr/downloads/) ou une autre IDE compatible .NET
+- [Visual Studio](https://visualstudio.microsoft.com/fr/downloads/) ou une autre IDE compatible .NET
 
 ## Installation
 
 1. **Cloner le Repository**
 
     ```bash
-    git clone https://github.com/https://github.com/KleinHatim/OrdersExecutionApi.git
+    git clone https://github.com/KleinHatim/OrdersExecutionApi.git
     cd OrdersExecutionApi
     ```
 
